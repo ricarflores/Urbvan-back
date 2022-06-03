@@ -12,7 +12,7 @@ Back end for urvban test
 ## For test end point
     - Use postman collection to access to the endpoint
  
-| EndPoint | Type | Body/Parmas  |
+| EndPoint | Type | Body/Params  |
 | ------------- | ------------- | ------------- |
 | GetAllUsers  | GET  | page, limit  | 
 | CreateUser | POST  | name, last_name  |
